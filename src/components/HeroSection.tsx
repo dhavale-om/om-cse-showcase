@@ -6,7 +6,7 @@ const HeroSection = () => {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-6">
       {/* Grid background */}
       <div className="absolute inset-0 opacity-[0.03]" style={{
-        backgroundImage: 'linear-gradient(hsl(150 80% 50%) 1px, transparent 1px), linear-gradient(90deg, hsl(150 80% 50%) 1px, transparent 1px)',
+        backgroundImage: 'linear-gradient(hsl(42 78% 60% / 0.15) 1px, transparent 1px), linear-gradient(90deg, hsl(42 78% 60% / 0.15) 1px, transparent 1px)',
         backgroundSize: '60px 60px'
       }} />
 
